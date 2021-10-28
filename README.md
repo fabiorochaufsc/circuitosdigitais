@@ -7,7 +7,8 @@
 minimização de hardware. Implementação de dispositivos elementares de memória (latchs e flip-flops). Circuitos
 Sequenciais. Implementação de módulos básicos. Ambiente de simulação.
 
-
+## Vídeos das aulas no YouTube
+[acesse a playlist](https://www.youtube.com/playlist?list=PLs3U4Zf5nTPkikCixhpr07Q7Ou5gYU2LH)
 
 ## Utilização do Git
 
